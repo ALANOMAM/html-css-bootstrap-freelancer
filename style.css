@@ -1,11 +1,29 @@
 
+
 header{
-    background-color:rgba(27, 188, 155, 1) ;
     height: 600px;
+}
+
+.green{
+    background-color:rgba(27, 188, 155, 1) ;
 }
 
 .intro{
     background-color: lightpink;
     height: 200px;
     width: 200px;
+}
+
+.card_color{
+    background-color:rgba(45, 62, 80, 1) ;
+    color:white;
+}
+
+footer{
+    background-color: rgba(58, 84, 109, 1);
+}
+
+.top_nav_color{
+background-color: pink;
+border: 2px red solid;
 }
