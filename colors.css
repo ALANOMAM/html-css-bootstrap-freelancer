@@ -5,3 +5,11 @@
  .green_text{
   color: rgba(27, 188, 155, 1);
  }
+
+ .light_dark{
+    background-color:rgba(58, 84, 109, 1);
+ }
+
+ .dark_dark{
+    background-color:rgba(45, 62, 80, 1);
+ }
