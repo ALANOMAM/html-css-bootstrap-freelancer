@@ -1,17 +1,18 @@
 
 
-header{
+ /*header{
     height: 600px;
-}
+}*/
 
 .green{
     background-color:rgba(27, 188, 155, 1) ;
 }
 
 .intro{
-    background-color: lightpink;
+/* background-color: lightpink;
     height: 200px;
     width: 200px;
+    margin-top: 30px;*/
 }
 
 .card_color{
@@ -24,6 +25,13 @@ footer{
 }
 
 .top_nav_color{
-background-color: pink;
-border: 2px red solid;
+background-color:rgba(45, 62, 80, 1) !important; 
+}
+
+.nav_color a{
+    color:white !important;
+}
+
+.icon_color { 
+    color:white !important;
 }
