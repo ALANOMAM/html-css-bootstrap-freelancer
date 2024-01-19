@@ -39,5 +39,12 @@ border:1px solid black;
 @media (min-width: 300px) { 
     nav .col-3{
         display: none;
+
+    }
+    nav .col{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
     }
  }
